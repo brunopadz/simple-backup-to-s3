@@ -7,9 +7,13 @@ Simple scripts to backup files to AWS S3
 
 ## tl;dr
 🔸 Clone it
+
 🔸 Adjust it to your needs
+
 🔸 Test it
+
 🔸 Deploy it
+
 
 ## Usage
 Clone the repo
